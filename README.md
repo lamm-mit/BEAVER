@@ -43,6 +43,12 @@ This repository is structured as follows:
    - Generate G-code and upload it to the Duet Web Control interface.
    - For dual material printer, upload the post-processor according to PrusaSlicer instructions.
 
+## Sample prints
+
+![image](https://github.com/user-attachments/assets/3b84abaa-e579-4630-84db-d9f838479b14)
+
+Examples of BEAVER single and dual material 3D prints. A) A single material test print of the biomaterial 3D printer of a vase-like structure. B) A calibration cube printed on the biomaterial 3D printer for testing and calibrating the dimensional accuracy and E-steps of the printer. An example of a simple dual material 3D printer in which the layers are printed with alternating extruders C) immediately after finishing printing and D) the same print fully dried. A wall can be seen printed around the model, this is both a priming tower and an ooze shield used when swapping between the extruders. E) A render of a dual material 3D print meant to replicate potential research uses for the printer in the future, a hexagonal lattice with inner tubules. F) The bio-inspired dual material print after fully drying and post-processing. G) The same bio-inspired model mid-print. The print can be seen with the same priming wall as in the previous dual material print.  
+
 ## Notes
 - This project fully functioning, any future updates will continue to be upload here.
 - Contributions and improvements from the community are welcome!
