@@ -47,9 +47,6 @@ This repository is structured as follows:
 - This project fully functioning, any future updates will continue to be upload here.
 - Contributions and improvements from the community are welcome!
 
-## Last Updated:
-1/29/2025
-
 ## License
 This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivs (CC BY-NC-ND) license. This means you are free to share the material with proper attribution, but you may not use it for commercial purposes or create derivative works.
 
