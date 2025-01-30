@@ -4,7 +4,7 @@
 ## Overview
 BEAVER is an open-source syringe-based dual-extruder FDM 3D Printer that uses natural biotic material feedstock such as pectin, chitosan, and cellulose. Unlike traditional FDM printers that rely on thermoplastics, this printer deposits viscous biocomposites that dry over time. This project aims to enable accessible research and development in sustainable, bio-based manufacturing.
 
-![Printer Render](media/Final Render.png)
+![Printer Render](Media/Final Render.png)
 
 ## Repository Organization
 This repository is structured as follows:
